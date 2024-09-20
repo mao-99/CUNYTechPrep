@@ -31,7 +31,7 @@ Watch these videos on how to think/brainstorm on projects and ideas. Post in sla
 
 0. [Rick Ruben IG Short](https://www.instagram.com/screenwritinginla/reel/C0Qe8vMOGHH/) [1min]
 0. [Nick R's First Funny Function Short](https://www.youtube.com/shorts/FXiLOfout3Y)[1min]
-0. [Examples of Easy Med Hard projects](https://www.youtube.com/watch?v=sw3o0rAazMg&ab_channel=NicholasRenotte)[15min]
+0. [Examples of Easy Med Hard projects](https://www.youtube.com/watch?v=cd sw3o0rAazMg&ab_channel=NicholasRenotte)[15min]
 0. [5 Impactful Data Science Projects For Your Portfolio](https://www.youtube.com/watch?v=QMP858aZcow&ab_channel=KenJee)[8min]
 0. [TED Talk: How to have big ideas](https://www.youtube.com/watch?v=mtn31hh6kU4&ab_channel=TEDArchive)[5min]
 
